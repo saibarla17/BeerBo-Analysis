@@ -1,0 +1,5 @@
+deviceKey,Area,DefaultCycleTime,Enterprise,Line,Location,Operation,Plant,SubType,Type
+Line1,Assembly-2,50,ManuCorp,AssemblyMain,Building G,Advanced Assembly,NorthPlant,HighSpeed,Production-Premium
+Line2,Fab-Pro,75,ManuCorp,WeldingPrimary,Building C-2,Laser Welding,SouthPlant,Precision,Production-Laser
+Line3,Paint-Auto,100,ManuCorp,PaintingMain,Building D-2,Electrostatic Paint,WestPlant,E-Coat,Production-Finish
+Line4,Smart-Logistics,20,ManuCorp,MaterialFlow,Building J,AGV Transfer,WestPlant,Automated,Smart-Logistics
