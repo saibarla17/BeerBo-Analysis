@@ -42,7 +42,24 @@ Included in the analysis:
 - Line Chart: Reject Rate vs. Output Efficiency
 - Summary Statistics Tables
 
----
+##📏 Statistical Testing Results (NEW)
+To evaluate whether the differences observed between Teams, Shifts, and Lines were statistically significant, one-way ANOVA tests were performed.
+
+Shifts (shift_display_name vs good_count):
+
+P-value ≈ 0.0074
+
+Interpretation: There is a statistically significant difference in production output across Shifts (p < 0.05).
+
+Teams (team_display_name vs good_count):
+
+P-value ≈ 0.1247
+
+Interpretation: No statistically significant difference in production output between Teams (p > 0.05).
+
+Lines:
+
+Line-level statistical analysis was not performed, as the provided data did not contain a distinct Line identifier.
 
 
 
