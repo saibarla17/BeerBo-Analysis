@@ -41,8 +41,7 @@ Included in the analysis:
 - Histogram: Good Count Distribution
 - Line Chart: Reject Rate vs. Output Efficiency
 - Summary Statistics Tables
-
-##📏 Statistical Testing Results (NEW)
+📏 Statistical Testing Results (NEW)
 To evaluate whether the differences observed between Teams, Shifts, and Lines were statistically significant, one-way ANOVA tests were performed.
 
 Shifts (shift_display_name vs good_count):
